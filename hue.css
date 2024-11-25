@@ -1,0 +1,14 @@
+:root {
+  background-color: #bae4ea;
+  color: #838;
+}
+
+:any-link {
+  color: #81c;
+  background-color: transparent;
+}
+
+::selection {
+  color: #1ed;
+  background-color: #81c;
+}
